@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
@@ -30,6 +32,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
