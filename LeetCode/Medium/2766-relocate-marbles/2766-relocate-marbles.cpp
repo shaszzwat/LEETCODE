@@ -6,10 +6,10 @@ public:
             mpp[it]++;
         }
         for(int i=0;i<moveTo.size();i++){
-            mpp[moveFrom[i]]=0;
-            if(mpp[moveFrom[i]]==0){
-                mpp.erase(moveFrom[i]);
-            }
+            
+            
+            mpp.erase(moveFrom[i]);
+           
             mpp[moveTo[i]]++;
         }
         vector<int>ans;
