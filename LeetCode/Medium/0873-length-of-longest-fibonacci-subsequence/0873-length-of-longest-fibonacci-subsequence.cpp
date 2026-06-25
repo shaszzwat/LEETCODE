@@ -8,11 +8,11 @@ public:
         int findi=arr[j]-arr[i];
         
         if(mpp.find(findi)!=mpp.end() && mpp[findi]<i){
-            return solve(mpp[findi],i,mpp,arr)+1;
+            return dp[i][j]= solve(mpp[findi],i,mpp,arr)+1;
 
 
         }
-        return 2;
+        return dp[i][j]=2;
     }
     
     int lenLongestFibSubseq(vector<int>& arr) {
