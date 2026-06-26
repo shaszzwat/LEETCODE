@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -115,6 +116,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+| [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +137,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
