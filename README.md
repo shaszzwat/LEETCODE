@@ -14,6 +14,7 @@
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
@@ -50,11 +51,13 @@
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
