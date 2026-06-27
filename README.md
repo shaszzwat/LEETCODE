@@ -20,6 +20,7 @@
 | [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
@@ -80,6 +81,7 @@
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@
 | ------- | ------- |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 ## Divide and Conquer
@@ -118,6 +121,7 @@
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +174,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 <!---LeetCode Topics End-->
