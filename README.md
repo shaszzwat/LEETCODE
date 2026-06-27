@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0135-candy](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0164-maximum-gap](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
