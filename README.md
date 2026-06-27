@@ -17,6 +17,7 @@
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
+| [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shaszzwat/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -114,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
