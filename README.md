@@ -39,6 +39,7 @@
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -130,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -157,6 +159,7 @@
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
