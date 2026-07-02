@@ -31,6 +31,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -154,6 +155,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@
 | ------- | ------- |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,8 +235,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
