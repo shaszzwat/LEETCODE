@@ -19,13 +19,13 @@ public:
         vector<vector<int>>res(n,vector<int>(n,1e8));
 
 
-        priority_queue<ppi,vector<ppi>,greater<ppi>>pq;
+        queue<ppi>pq;
         pq.push({1,{0,0}});
         res[0][0]=1;
         while(!pq.empty()){
-            int i=pq.top().second.first;
-            int j=pq.top().second.second;
-            int dist=pq.top().first;
+            int i=pq.front().second.first;
+            int j=pq.front().second.second;
+            int dist=pq.front().first;
             pq.pop();
             for(int k=0;k<8;k++){
                 int newi=i+dir[k][0];
