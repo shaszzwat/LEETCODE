@@ -8,8 +8,8 @@ public:
 
         }
 
-        vector<int>visited(n+1,1e8);
-        visited[1]=0;
+        vector<int>visited(n+1,-1);
+        visited[1]=1;
         queue<pair<int,int>>q;
         q.push({1,1e8});
         int ans=INT_MAX;
@@ -20,24 +20,22 @@ public:
             for(auto it:adj[node]){
                 int nextnode=it.first;
                 int cost2=it.second;
+                ans=min(ans,cost2);
 
                 
-                if(cost2<visited[nextnode]){
+                if(visited[nextnode]==-1){
                     q.push({nextnode,min(cost,cost2)});
-                    visited[nextnode]=min(cost,cost2);
+                    visited[nextnode]=1;
+                    
                 }
                 
 
             }
-            int ans=1e8;
+            
 
             
 
         }
-        for(int i=2;i<=n;i++){
-                
-                ans=min(ans,visited[i]);
-            }
         return ans;
             
         
