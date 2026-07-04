@@ -24,7 +24,7 @@ public:
 
                 
                 if(visited[nextnode]==-1){
-                    q.push({nextnode,min(cost,cost2)});
+                    q.push({nextnode,cost2});
                     visited[nextnode]=1;
                     
                 }
