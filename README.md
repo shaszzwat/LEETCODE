@@ -26,6 +26,7 @@
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
@@ -182,6 +183,7 @@
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/shaszzwat/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -229,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -272,6 +275,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -279,6 +283,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
