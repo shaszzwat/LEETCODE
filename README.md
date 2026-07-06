@@ -31,6 +31,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
+| [2615-sum-of-distances](https://github.com/shaszzwat/LEETCODE/tree/main/2615-sum-of-distances/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -52,6 +53,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
+| [2615-sum-of-distances](https://github.com/shaszzwat/LEETCODE/tree/main/2615-sum-of-distances/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
@@ -74,6 +76,7 @@
 | ------- | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
+| [2615-sum-of-distances](https://github.com/shaszzwat/LEETCODE/tree/main/2615-sum-of-distances/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shaszzwat/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
