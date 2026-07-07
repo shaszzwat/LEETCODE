@@ -149,6 +149,7 @@
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaszzwat/LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
