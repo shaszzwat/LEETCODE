@@ -121,6 +121,7 @@
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
@@ -211,6 +212,7 @@
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -247,6 +249,7 @@
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
