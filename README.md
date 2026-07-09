@@ -16,6 +16,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
+| [0870-advantage-shuffle](https://github.com/shaszzwat/LEETCODE/tree/main/0870-advantage-shuffle/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
@@ -108,6 +109,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
+| [0870-advantage-shuffle](https://github.com/shaszzwat/LEETCODE/tree/main/0870-advantage-shuffle/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
@@ -133,6 +135,7 @@
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
+| [0870-advantage-shuffle](https://github.com/shaszzwat/LEETCODE/tree/main/0870-advantage-shuffle/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -147,6 +150,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
+| [0870-advantage-shuffle](https://github.com/shaszzwat/LEETCODE/tree/main/0870-advantage-shuffle/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shaszzwat/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
