@@ -47,6 +47,7 @@
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaszzwat/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -68,6 +69,7 @@
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaszzwat/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -263,6 +265,7 @@
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +298,7 @@
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -311,6 +316,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +325,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaszzwat/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +333,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaszzwat/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
