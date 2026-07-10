@@ -317,6 +317,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -371,12 +372,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
