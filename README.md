@@ -14,6 +14,7 @@
 | [0239-sliding-window-maximum](https://github.com/shaszzwat/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0456-132-pattern](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/shaszzwat/LEETCODE/tree/main/0475-heaters/) | Medium |
+| [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
@@ -63,6 +64,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+| [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
@@ -100,6 +102,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
