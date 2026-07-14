@@ -64,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shaszzwat/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -256,6 +257,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shaszzwat/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
@@ -281,6 +283,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shaszzwat/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
