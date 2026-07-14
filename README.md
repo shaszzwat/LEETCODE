@@ -11,6 +11,7 @@
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0135-candy](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/shaszzwat/LEETCODE/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0164-maximum-gap](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shaszzwat/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0275-h-index-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0275-h-index-ii/) | Medium |
@@ -68,6 +69,7 @@
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaszzwat/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/shaszzwat/LEETCODE/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
@@ -191,6 +193,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/shaszzwat/LEETCODE/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0233-number-of-digit-one](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [0371-sum-of-two-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
@@ -361,6 +364,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/shaszzwat/LEETCODE/tree/main/0149-max-points-on-a-line/) | Hard |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
