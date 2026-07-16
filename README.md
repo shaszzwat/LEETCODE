@@ -50,6 +50,7 @@
 | [2615-sum-of-distances](https://github.com/shaszzwat/LEETCODE/tree/main/2615-sum-of-distances/) | Medium |
 | [2661-first-completely-painted-row-or-column](https://github.com/shaszzwat/LEETCODE/tree/main/2661-first-completely-painted-row-or-column/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
+| [2731-movement-of-robots](https://github.com/shaszzwat/LEETCODE/tree/main/2731-movement-of-robots/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -121,6 +122,7 @@
 | [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2615-sum-of-distances](https://github.com/shaszzwat/LEETCODE/tree/main/2615-sum-of-distances/) | Medium |
+| [2731-movement-of-robots](https://github.com/shaszzwat/LEETCODE/tree/main/2731-movement-of-robots/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shaszzwat/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -194,6 +196,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
+| [2731-movement-of-robots](https://github.com/shaszzwat/LEETCODE/tree/main/2731-movement-of-robots/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaszzwat/LEETCODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -477,4 +480,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/shaszzwat/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2731-movement-of-robots](https://github.com/shaszzwat/LEETCODE/tree/main/2731-movement-of-robots/) | Medium |
 <!---LeetCode Topics End-->
