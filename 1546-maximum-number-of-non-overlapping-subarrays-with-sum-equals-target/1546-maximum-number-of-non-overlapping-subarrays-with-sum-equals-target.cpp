@@ -20,9 +20,10 @@ public:
             }
 
             
-            if (i >= last)
-                mpp[nums[i]] = i;
+            
+             mpp[nums[i]] = i;
         }
+        
 
         return count;
     }
