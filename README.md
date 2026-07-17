@@ -27,6 +27,7 @@
 | [0946-validate-stack-sequences](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaszzwat/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/shaszzwat/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -153,6 +154,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaszzwat/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
