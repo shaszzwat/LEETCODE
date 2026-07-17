@@ -36,6 +36,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
@@ -83,6 +84,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2615-sum-of-distances](https://github.com/shaszzwat/LEETCODE/tree/main/2615-sum-of-distances/) | Medium |
@@ -121,6 +123,7 @@
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
@@ -176,6 +179,7 @@
 | [0870-advantage-shuffle](https://github.com/shaszzwat/LEETCODE/tree/main/0870-advantage-shuffle/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
