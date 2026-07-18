@@ -168,6 +168,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaszzwat/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -226,6 +227,7 @@
 | [0371-sum-of-two-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2376-count-special-integers](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/2376-count-special-integers/) | Hard |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
