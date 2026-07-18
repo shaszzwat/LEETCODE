@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/shaszzwat/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
@@ -159,6 +160,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/shaszzwat/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0275-h-index-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0275-h-index-ii/) | Medium |
 | [0456-132-pattern](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
