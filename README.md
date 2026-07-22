@@ -55,6 +55,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shaszzwat/LEETCODE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/shaszzwat/LEETCODE/tree/main/2615-sum-of-distances/) | Medium |
@@ -178,6 +179,7 @@
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaszzwat/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -200,6 +202,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/shaszzwat/LEETCODE/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
 ## Sorting
@@ -222,6 +225,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2731-movement-of-robots](https://github.com/shaszzwat/LEETCODE/tree/main/2731-movement-of-robots/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
