@@ -66,6 +66,7 @@
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shaszzwat/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaszzwat/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaszzwat/LEETCODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/shaszzwat/LEETCODE/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
@@ -177,6 +178,7 @@
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shaszzwat/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Greedy
@@ -265,6 +267,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
@@ -322,6 +325,7 @@
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaszzwat/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
