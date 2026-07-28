@@ -82,6 +82,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/shaszzwat/LEETCODE/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/shaszzwat/LEETCODE/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 | [3840-house-robber-v](https://github.com/shaszzwat/LEETCODE/tree/main/3840-house-robber-v/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
