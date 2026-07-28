@@ -41,6 +41,7 @@
 | [1288-remove-covered-intervals](https://github.com/shaszzwat/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/shaszzwat/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
@@ -95,6 +96,7 @@
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
@@ -200,6 +202,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -482,6 +485,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 ## Number Theory
