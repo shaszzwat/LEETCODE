@@ -106,6 +106,7 @@
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
@@ -242,6 +243,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
@@ -316,6 +318,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -356,6 +359,7 @@
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
