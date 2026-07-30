@@ -216,6 +216,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaszzwat/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3576-transform-array-to-all-equal-elements](https://github.com/shaszzwat/LEETCODE/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -263,6 +264,7 @@
 | [2376-count-special-integers](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/2376-count-special-integers/) | Hard |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaszzwat/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shaszzwat/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -351,6 +353,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaszzwat/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaszzwat/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
