@@ -32,6 +32,7 @@
 | [0946-validate-stack-sequences](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaszzwat/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/shaszzwat/LEETCODE/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
@@ -96,6 +97,7 @@
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -309,6 +311,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
@@ -445,6 +448,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/shaszzwat/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 ## Geometry
