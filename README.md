@@ -278,6 +278,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1860-incremental-memory-leak](https://github.com/shaszzwat/LEETCODE/tree/main/1860-incremental-memory-leak/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2376-count-special-integers](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/2376-count-special-integers/) | Hard |
@@ -298,6 +299,7 @@
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
+| [1860-incremental-memory-leak](https://github.com/shaszzwat/LEETCODE/tree/main/1860-incremental-memory-leak/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shaszzwat/LEETCODE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
