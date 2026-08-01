@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/shaszzwat/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/shaszzwat/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0047-permutations-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
@@ -94,6 +95,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaszzwat/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/shaszzwat/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/shaszzwat/LEETCODE/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
