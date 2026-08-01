@@ -20,6 +20,7 @@
 | [0275-h-index-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0275-h-index-ii/) | Medium |
 | [0456-132-pattern](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/shaszzwat/LEETCODE/tree/main/0475-heaters/) | Medium |
+| [0486-predict-the-winner](https://github.com/shaszzwat/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -131,6 +132,7 @@
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
+| [0486-predict-the-winner](https://github.com/shaszzwat/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0790-domino-and-tromino-tiling/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0935-knight-dialer](https://github.com/shaszzwat/LEETCODE/tree/main/0935-knight-dialer/) | Medium |
@@ -265,6 +267,7 @@
 | [0149-max-points-on-a-line](https://github.com/shaszzwat/LEETCODE/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0233-number-of-digit-one](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [0371-sum-of-two-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0486-predict-the-winner](https://github.com/shaszzwat/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaszzwat/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -516,6 +519,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
+| [0486-predict-the-winner](https://github.com/shaszzwat/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,5 +589,6 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shaszzwat/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 <!---LeetCode Topics End-->
