@@ -75,6 +75,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/shaszzwat/LEETCODE/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/shaszzwat/LEETCODE/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -231,6 +232,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/shaszzwat/LEETCODE/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaszzwat/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/shaszzwat/LEETCODE/tree/main/3523-make-array-non-decreasing/) | Medium |
@@ -263,6 +265,7 @@
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2731-movement-of-robots](https://github.com/shaszzwat/LEETCODE/tree/main/2731-movement-of-robots/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/shaszzwat/LEETCODE/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/shaszzwat/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaszzwat/LEETCODE/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
