@@ -49,6 +49,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaszzwat/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
@@ -147,6 +148,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/shaszzwat/LEETCODE/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/shaszzwat/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2376-count-special-integers](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/2376-count-special-integers/) | Hard |
@@ -283,6 +285,7 @@
 | [0539-minimum-time-difference](https://github.com/shaszzwat/LEETCODE/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaszzwat/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/shaszzwat/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
@@ -609,5 +612,14 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/shaszzwat/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/shaszzwat/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
