@@ -59,6 +59,9 @@ public:
         for(int i=0;i<n;i++){
             if(visited[i]==-1){
                 bfs(i,visited,adj);
+                if(sus){
+                    break;
+                }
             }
         }
         vector<int>ans2;
