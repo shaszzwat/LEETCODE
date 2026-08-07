@@ -109,6 +109,7 @@
 | [0149-max-points-on-a-line](https://github.com/shaszzwat/LEETCODE/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0791-custom-sort-string](https://github.com/shaszzwat/LEETCODE/tree/main/0791-custom-sort-string/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
@@ -260,6 +261,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shaszzwat/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/shaszzwat/LEETCODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
+| [0791-custom-sort-string](https://github.com/shaszzwat/LEETCODE/tree/main/0791-custom-sort-string/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/shaszzwat/LEETCODE/tree/main/0870-advantage-shuffle/) | Medium |
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
@@ -391,6 +393,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0539-minimum-time-difference](https://github.com/shaszzwat/LEETCODE/tree/main/0539-minimum-time-difference/) | Medium |
+| [0791-custom-sort-string](https://github.com/shaszzwat/LEETCODE/tree/main/0791-custom-sort-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
