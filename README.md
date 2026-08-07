@@ -28,6 +28,7 @@
 | [0539-minimum-time-difference](https://github.com/shaszzwat/LEETCODE/tree/main/0539-minimum-time-difference/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaszzwat/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaszzwat/LEETCODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0849-maximize-distance-to-closest-person](https://github.com/shaszzwat/LEETCODE/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
@@ -143,6 +144,7 @@
 | [0152-maximum-product-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [0486-predict-the-winner](https://github.com/shaszzwat/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaszzwat/LEETCODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0790-domino-and-tromino-tiling/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/shaszzwat/LEETCODE/tree/main/0877-stone-game/) | Medium |
@@ -223,6 +225,7 @@
 | [0330-patching-array](https://github.com/shaszzwat/LEETCODE/tree/main/0330-patching-array/) | Hard |
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaszzwat/LEETCODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/shaszzwat/LEETCODE/tree/main/0870-advantage-shuffle/) | Medium |
@@ -253,6 +256,7 @@
 | [0539-minimum-time-difference](https://github.com/shaszzwat/LEETCODE/tree/main/0539-minimum-time-difference/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shaszzwat/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaszzwat/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaszzwat/LEETCODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0826-most-profit-assigning-work](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/shaszzwat/LEETCODE/tree/main/0870-advantage-shuffle/) | Medium |
@@ -642,4 +646,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/shaszzwat/LEETCODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
