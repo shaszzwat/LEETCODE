@@ -44,6 +44,7 @@
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/shaszzwat/LEETCODE/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/shaszzwat/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/shaszzwat/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -155,6 +156,7 @@
 | [0877-stone-game](https://github.com/shaszzwat/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0935-knight-dialer](https://github.com/shaszzwat/LEETCODE/tree/main/0935-knight-dialer/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/shaszzwat/LEETCODE/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
+| [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/shaszzwat/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
@@ -169,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
+| [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
@@ -298,6 +301,7 @@
 | [0539-minimum-time-difference](https://github.com/shaszzwat/LEETCODE/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaszzwat/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/shaszzwat/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
@@ -640,15 +644,18 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/shaszzwat/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/shaszzwat/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
