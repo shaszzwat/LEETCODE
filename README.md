@@ -57,6 +57,7 @@
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
@@ -123,6 +124,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shaszzwat/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
@@ -309,6 +311,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1860-incremental-memory-leak](https://github.com/shaszzwat/LEETCODE/tree/main/1860-incremental-memory-leak/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2029-stone-game-ix](https://github.com/shaszzwat/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
@@ -365,6 +368,7 @@
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/shaszzwat/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
