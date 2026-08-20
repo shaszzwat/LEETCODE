@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shaszzwat/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shaszzwat/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shaszzwat/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/shaszzwat/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/shaszzwat/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0047-permutations-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
@@ -408,6 +409,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shaszzwat/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaszzwat/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
@@ -439,6 +441,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shaszzwat/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
