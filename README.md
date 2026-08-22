@@ -471,6 +471,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
@@ -520,6 +521,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shaszzwat/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/shaszzwat/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/shaszzwat/LEETCODE/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
@@ -550,6 +552,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shaszzwat/LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -573,6 +576,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -586,6 +590,7 @@
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
@@ -704,4 +709,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/shaszzwat/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
