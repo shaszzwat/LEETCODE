@@ -214,6 +214,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shaszzwat/LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shaszzwat/LEETCODE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shaszzwat/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -451,6 +452,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaszzwat/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shaszzwat/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -524,6 +526,7 @@
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaszzwat/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shaszzwat/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
