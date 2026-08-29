@@ -55,6 +55,7 @@
 | [1366-rank-teams-by-votes](https://github.com/shaszzwat/LEETCODE/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shaszzwat/LEETCODE/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
@@ -128,6 +129,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/shaszzwat/LEETCODE/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shaszzwat/LEETCODE/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -389,6 +391,7 @@
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/shaszzwat/LEETCODE/tree/main/1366-rank-teams-by-votes/) | Medium |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shaszzwat/LEETCODE/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/shaszzwat/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
