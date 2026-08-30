@@ -67,6 +67,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/shaszzwat/LEETCODE/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shaszzwat/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -266,6 +267,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/shaszzwat/LEETCODE/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/shaszzwat/LEETCODE/tree/main/1927-sum-game/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/shaszzwat/LEETCODE/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2029-stone-game-ix](https://github.com/shaszzwat/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -549,6 +551,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shaszzwat/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/shaszzwat/LEETCODE/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/shaszzwat/LEETCODE/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shaszzwat/LEETCODE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
