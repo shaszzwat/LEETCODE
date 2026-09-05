@@ -1,7 +1,7 @@
 class Solution {
 public:
     int removeAlmostEqualCharacters(string word) {
-        vector<int>a;
+        
         int ans=0;
         for(int i=0;i<word.size();i++){
             int j=i+1;
@@ -14,13 +14,11 @@ public:
 
             }
             if(count!=1){
-                a.push_back(count);
+                ans+=count/2;
             }
 
         }
-        for(int i=0;i<a.size();i++){
-            ans+=a[i]/2;
-        }
+       
         return ans;
         
     }
