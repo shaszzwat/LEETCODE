@@ -164,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shaszzwat/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -443,6 +444,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaszzwat/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
