@@ -78,6 +78,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaszzwat/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shaszzwat/LEETCODE/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -350,6 +351,7 @@
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2029-stone-game-ix](https://github.com/shaszzwat/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2376-count-special-integers](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/2376-count-special-integers/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/shaszzwat/LEETCODE/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
