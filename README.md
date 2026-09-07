@@ -179,6 +179,7 @@
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/shaszzwat/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0935-knight-dialer](https://github.com/shaszzwat/LEETCODE/tree/main/0935-knight-dialer/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/shaszzwat/LEETCODE/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -458,6 +459,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shaszzwat/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/shaszzwat/LEETCODE/tree/main/0791-custom-sort-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
