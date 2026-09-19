@@ -355,6 +355,7 @@
 | [0877-stone-game](https://github.com/shaszzwat/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shaszzwat/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shaszzwat/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
@@ -605,6 +606,7 @@
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/shaszzwat/LEETCODE/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/shaszzwat/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shaszzwat/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
 ## Breadth-First Search
