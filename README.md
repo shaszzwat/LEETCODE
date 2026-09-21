@@ -60,6 +60,7 @@
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/shaszzwat/LEETCODE/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shaszzwat/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaszzwat/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shaszzwat/LEETCODE/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -140,6 +141,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/shaszzwat/LEETCODE/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shaszzwat/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaszzwat/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shaszzwat/LEETCODE/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shaszzwat/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -207,6 +209,7 @@
 | [0525-contiguous-array](https://github.com/shaszzwat/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [1094-car-pooling](https://github.com/shaszzwat/LEETCODE/tree/main/1094-car-pooling/) | Medium |
 | [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shaszzwat/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
@@ -359,6 +362,7 @@
 | [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shaszzwat/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shaszzwat/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -676,6 +680,7 @@
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shaszzwat/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
