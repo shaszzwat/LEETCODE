@@ -100,6 +100,7 @@
 | [2731-movement-of-robots](https://github.com/shaszzwat/LEETCODE/tree/main/2731-movement-of-robots/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/shaszzwat/LEETCODE/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
+| [2798-number-of-employees-who-met-the-target](https://github.com/shaszzwat/LEETCODE/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/shaszzwat/LEETCODE/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
