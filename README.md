@@ -291,6 +291,7 @@
 | [1090-largest-values-from-labels](https://github.com/shaszzwat/LEETCODE/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shaszzwat/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/shaszzwat/LEETCODE/tree/main/1792-maximum-average-pass-ratio/) | Medium |
@@ -493,6 +494,7 @@
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shaszzwat/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1927-sum-game](https://github.com/shaszzwat/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
@@ -565,6 +567,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/shaszzwat/LEETCODE/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -799,6 +802,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shaszzwat/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
