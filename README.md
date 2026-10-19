@@ -247,6 +247,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shaszzwat/LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shaszzwat/LEETCODE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/shaszzwat/LEETCODE/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shaszzwat/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -310,6 +311,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/shaszzwat/LEETCODE/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/shaszzwat/LEETCODE/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/shaszzwat/LEETCODE/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaszzwat/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -510,6 +512,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/shaszzwat/LEETCODE/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/shaszzwat/LEETCODE/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaszzwat/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
