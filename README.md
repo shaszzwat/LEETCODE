@@ -70,6 +70,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/shaszzwat/LEETCODE/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -247,6 +248,7 @@
 | [0948-bag-of-tokens](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shaszzwat/LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shaszzwat/LEETCODE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/shaszzwat/LEETCODE/tree/main/2938-separate-black-and-white-balls/) | Medium |
@@ -269,6 +271,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaszzwat/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -586,6 +589,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/shaszzwat/LEETCODE/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -593,6 +597,7 @@
 | [0402-remove-k-digits](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0456-132-pattern/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/shaszzwat/LEETCODE/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -840,4 +845,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1029-two-city-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1029-two-city-scheduling/) | Medium |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 <!---LeetCode Topics End-->
