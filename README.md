@@ -76,6 +76,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
+| [1955-count-number-of-special-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1955-count-number-of-special-subsequences/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/shaszzwat/LEETCODE/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
@@ -206,6 +207,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shaszzwat/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1955-count-number-of-special-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1955-count-number-of-special-subsequences/) | Hard |
 | [2376-count-special-integers](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/2376-count-special-integers/) | Hard |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/shaszzwat/LEETCODE/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/shaszzwat/LEETCODE/tree/main/2998-minimum-number-of-operations-to-make-x-and-y-equal/) | Medium |
