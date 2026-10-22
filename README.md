@@ -87,6 +87,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaszzwat/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaszzwat/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
@@ -362,6 +363,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaszzwat/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
@@ -399,6 +401,7 @@
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/shaszzwat/LEETCODE/tree/main/1954-minimum-garden-perimeter-to-collect-enough-apples/) | Medium |
 | [2029-stone-game-ix](https://github.com/shaszzwat/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2376-count-special-integers](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/2376-count-special-integers/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/shaszzwat/LEETCODE/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
@@ -634,6 +637,7 @@
 | [1094-car-pooling](https://github.com/shaszzwat/LEETCODE/tree/main/1094-car-pooling/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/shaszzwat/LEETCODE/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/shaszzwat/LEETCODE/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shaszzwat/LEETCODE/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
@@ -736,6 +740,7 @@
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shaszzwat/LEETCODE/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/shaszzwat/LEETCODE/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/shaszzwat/LEETCODE/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shaszzwat/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -817,10 +822,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
