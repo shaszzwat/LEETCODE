@@ -123,6 +123,7 @@
 | [3607-power-grid-maintenance](https://github.com/shaszzwat/LEETCODE/tree/main/3607-power-grid-maintenance/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/shaszzwat/LEETCODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaszzwat/LEETCODE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -743,6 +744,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shaszzwat/LEETCODE/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/shaszzwat/LEETCODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
