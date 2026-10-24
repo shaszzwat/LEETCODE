@@ -145,6 +145,7 @@
 | [0692-top-k-frequent-words](https://github.com/shaszzwat/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/shaszzwat/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/shaszzwat/LEETCODE/tree/main/0791-custom-sort-string/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -585,6 +586,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
@@ -686,6 +688,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/shaszzwat/LEETCODE/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -781,6 +784,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -799,6 +803,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
