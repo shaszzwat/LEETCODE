@@ -407,6 +407,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2376-count-special-integers](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/2376-count-special-integers/) | Hard |
+| [2409-count-days-spent-together](https://github.com/shaszzwat/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/shaszzwat/LEETCODE/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/shaszzwat/LEETCODE/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -533,6 +534,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/shaszzwat/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
+| [2409-count-days-spent-together](https://github.com/shaszzwat/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/shaszzwat/LEETCODE/tree/main/2938-separate-black-and-white-balls/) | Medium |
