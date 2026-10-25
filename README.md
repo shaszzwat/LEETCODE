@@ -53,6 +53,7 @@
 | [1140-stone-game-ii](https://github.com/shaszzwat/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/shaszzwat/LEETCODE/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shaszzwat/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/shaszzwat/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -484,6 +485,7 @@
 | [0079-word-search](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/shaszzwat/LEETCODE/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/shaszzwat/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2017-grid-game](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2017-grid-game/) | Medium |
@@ -588,6 +590,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -692,6 +695,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shaszzwat/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/shaszzwat/LEETCODE/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -705,6 +709,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shaszzwat/LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
