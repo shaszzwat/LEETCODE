@@ -525,6 +525,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shaszzwat/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/shaszzwat/LEETCODE/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
@@ -614,6 +615,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaszzwat/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shaszzwat/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/shaszzwat/LEETCODE/tree/main/3523-make-array-non-decreasing/) | Medium |
@@ -879,6 +881,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shaszzwat/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shaszzwat/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
