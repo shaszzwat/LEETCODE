@@ -129,6 +129,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/shaszzwat/LEETCODE/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
+| [3804-number-of-centered-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/shaszzwat/LEETCODE/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 | [3840-house-robber-v](https://github.com/shaszzwat/LEETCODE/tree/main/3840-house-robber-v/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -185,6 +186,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/shaszzwat/LEETCODE/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
+| [3804-number-of-centered-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/3804-number-of-centered-subarrays/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -636,6 +638,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shaszzwat/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shaszzwat/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3804-number-of-centered-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/3804-number-of-centered-subarrays/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
