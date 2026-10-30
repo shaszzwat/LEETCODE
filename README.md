@@ -403,6 +403,7 @@
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaszzwat/LEETCODE/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1860-incremental-memory-leak](https://github.com/shaszzwat/LEETCODE/tree/main/1860-incremental-memory-leak/) | Medium |
