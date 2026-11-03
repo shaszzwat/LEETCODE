@@ -129,6 +129,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shaszzwat/LEETCODE/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaszzwat/LEETCODE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shaszzwat/LEETCODE/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/shaszzwat/LEETCODE/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
@@ -432,6 +433,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shaszzwat/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shaszzwat/LEETCODE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3623-count-number-of-trapezoids-i/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shaszzwat/LEETCODE/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shaszzwat/LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shaszzwat/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
