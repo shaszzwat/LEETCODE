@@ -58,6 +58,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shaszzwat/LEETCODE/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shaszzwat/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/shaszzwat/LEETCODE/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/shaszzwat/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaszzwat/LEETCODE/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -711,6 +712,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/shaszzwat/LEETCODE/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/shaszzwat/LEETCODE/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1905-count-sub-islands](https://github.com/shaszzwat/LEETCODE/tree/main/1905-count-sub-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -737,6 +739,7 @@
 | [0743-network-delay-time](https://github.com/shaszzwat/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shaszzwat/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/shaszzwat/LEETCODE/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/shaszzwat/LEETCODE/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shaszzwat/LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
