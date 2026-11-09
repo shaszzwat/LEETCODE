@@ -19,6 +19,7 @@
 | [0152-maximum-product-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shaszzwat/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0260-single-number-iii](https://github.com/shaszzwat/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0275-h-index-ii](https://github.com/shaszzwat/LEETCODE/tree/main/0275-h-index-ii/) | Medium |
 | [0330-patching-array](https://github.com/shaszzwat/LEETCODE/tree/main/0330-patching-array/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shaszzwat/LEETCODE/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -767,6 +768,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0260-single-number-iii](https://github.com/shaszzwat/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/shaszzwat/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shaszzwat/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shaszzwat/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
