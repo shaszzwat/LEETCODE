@@ -412,6 +412,7 @@
 | [1406-stone-game-iii](https://github.com/shaszzwat/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/shaszzwat/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
+| [1513-number-of-substrings-with-only-1s](https://github.com/shaszzwat/LEETCODE/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shaszzwat/LEETCODE/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shaszzwat/LEETCODE/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shaszzwat/LEETCODE/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
@@ -546,6 +547,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/shaszzwat/LEETCODE/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1447-simplified-fractions](https://github.com/shaszzwat/LEETCODE/tree/main/1447-simplified-fractions/) | Medium |
+| [1513-number-of-substrings-with-only-1s](https://github.com/shaszzwat/LEETCODE/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shaszzwat/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
