@@ -192,6 +192,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaszzwat/LEETCODE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shaszzwat/LEETCODE/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/shaszzwat/LEETCODE/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/3804-number-of-centered-subarrays/) | Medium |
 ## Dynamic Programming
@@ -566,6 +567,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shaszzwat/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shaszzwat/LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shaszzwat/LEETCODE/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
