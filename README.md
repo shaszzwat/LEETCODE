@@ -79,6 +79,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/shaszzwat/LEETCODE/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/shaszzwat/LEETCODE/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1799-maximize-score-after-n-operations](https://github.com/shaszzwat/LEETCODE/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shaszzwat/LEETCODE/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
@@ -174,6 +175,7 @@
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/shaszzwat/LEETCODE/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shaszzwat/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shaszzwat/LEETCODE/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shaszzwat/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -554,6 +556,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaszzwat/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaszzwat/LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/shaszzwat/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
