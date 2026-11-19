@@ -105,6 +105,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/shaszzwat/LEETCODE/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shaszzwat/LEETCODE/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shaszzwat/LEETCODE/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2615-sum-of-distances](https://github.com/shaszzwat/LEETCODE/tree/main/2615-sum-of-distances/) | Medium |
@@ -343,6 +344,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaszzwat/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shaszzwat/LEETCODE/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shaszzwat/LEETCODE/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/shaszzwat/LEETCODE/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/shaszzwat/LEETCODE/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
@@ -390,6 +392,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/shaszzwat/LEETCODE/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shaszzwat/LEETCODE/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shaszzwat/LEETCODE/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shaszzwat/LEETCODE/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2679-sum-in-a-matrix/) | Medium |
 | [2731-movement-of-robots](https://github.com/shaszzwat/LEETCODE/tree/main/2731-movement-of-robots/) | Medium |
 | [2766-relocate-marbles](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2766-relocate-marbles/) | Medium |
