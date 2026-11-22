@@ -566,6 +566,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shaszzwat/LEETCODE/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/shaszzwat/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shaszzwat/LEETCODE/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/shaszzwat/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/shaszzwat/LEETCODE/tree/main/LeetCode/Medium/2575-find-the-divisibility-array-of-a-string/) | Medium |
